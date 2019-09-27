@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\MongoDriver3\\ggdfg\\ggdfg\\ggdfg.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\MongoDriver3\\ggdfg\\ggdfg\\ggdfg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\MongoDriver3\\ggdfg\\ggdfg\\ggdfg.csproj",
+        "projectName": "ggdfg",
+        "projectPath": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\MongoDriver3\\ggdfg\\ggdfg\\ggdfg.csproj",
+        "packagesPath": "C:\\Users\\gaborimre.bata-kovac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\MongoDriver3\\ggdfg\\ggdfg\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gaborimre.bata-kovac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget/nuget/Dealogic": {},
+          "http://nuget/nuget/ThirdParty": {},
+          "https://dealogic.pkgs.visualstudio.com/_packaging/Dealogic/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
