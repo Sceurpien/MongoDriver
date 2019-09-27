@@ -1,0 +1,17 @@
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\obj\Debug\netcoreapp2.1\DriverTest.csprojAssemblyReference.cache
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\obj\Debug\netcoreapp2.1\DriverTest.csproj.CoreCompileInputs.cache
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\obj\Debug\netcoreapp2.1\DriverTest.AssemblyInfoInputs.cache
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\obj\Debug\netcoreapp2.1\DriverTest.AssemblyInfo.cs
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\DriverTest.deps.json
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\DriverTest.runtimeconfig.json
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\DriverTest.runtimeconfig.dev.json
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\DriverTest.dll
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\DriverTest.pdb
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\Driver.dll
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\bin\Debug\netcoreapp2.1\Driver.pdb
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\obj\Debug\netcoreapp2.1\DriverTest.csproj.CopyComplete
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\obj\Debug\netcoreapp2.1\DriverTest.dll
+C:\Users\gaborimre.bata-kovac\source\repos\DriverTest\obj\Debug\netcoreapp2.1\DriverTest.pdb

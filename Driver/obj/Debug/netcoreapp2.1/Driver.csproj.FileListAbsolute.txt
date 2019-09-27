@@ -1,0 +1,9 @@
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\obj\Debug\netcoreapp2.1\Driver.csprojAssemblyReference.cache
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\obj\Debug\netcoreapp2.1\Driver.csproj.CoreCompileInputs.cache
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\obj\Debug\netcoreapp2.1\Driver.AssemblyInfoInputs.cache
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\obj\Debug\netcoreapp2.1\Driver.AssemblyInfo.cs
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\bin\Debug\netcoreapp2.1\Driver.deps.json
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\bin\Debug\netcoreapp2.1\Driver.dll
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\bin\Debug\netcoreapp2.1\Driver.pdb
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\obj\Debug\netcoreapp2.1\Driver.dll
+C:\Users\gaborimre.bata-kovac\source\repos\Driver\obj\Debug\netcoreapp2.1\Driver.pdb

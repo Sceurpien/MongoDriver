@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\DriverTest\\DriverTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\DriverTest\\DriverTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\DriverTest\\DriverTest.csproj",
+        "projectName": "DriverTest",
+        "projectPath": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\DriverTest\\DriverTest.csproj",
+        "packagesPath": "C:\\Users\\gaborimre.bata-kovac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\DriverTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gaborimre.bata-kovac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget/nuget/Dealogic": {},
+          "http://nuget/nuget/ThirdParty": {},
+          "https://dealogic.pkgs.visualstudio.com/_packaging/Dealogic/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\Driver\\Driver.csproj": {
+                "projectPath": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\Driver\\Driver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\Driver\\Driver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\Driver\\Driver.csproj",
+        "projectName": "Driver",
+        "projectPath": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\Driver\\Driver.csproj",
+        "packagesPath": "C:\\Users\\gaborimre.bata-kovac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaborimre.bata-kovac\\source\\repos\\Driver\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gaborimre.bata-kovac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget/nuget/Dealogic": {},
+          "http://nuget/nuget/ThirdParty": {},
+          "https://dealogic.pkgs.visualstudio.com/_packaging/Dealogic/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
